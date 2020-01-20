@@ -1,0 +1,11 @@
+C:\Users\me-shayesteh\source\repos\testUnitOfWork\testUnitOfWork\bin\Debug\testUnitOfWork.exe.config
+C:\Users\me-shayesteh\source\repos\testUnitOfWork\testUnitOfWork\bin\Debug\testUnitOfWork.exe
+C:\Users\me-shayesteh\source\repos\testUnitOfWork\testUnitOfWork\bin\Debug\testUnitOfWork.pdb
+C:\Users\me-shayesteh\source\repos\testUnitOfWork\testUnitOfWork\bin\Debug\EntityFramework.dll
+C:\Users\me-shayesteh\source\repos\testUnitOfWork\testUnitOfWork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\me-shayesteh\source\repos\testUnitOfWork\testUnitOfWork\bin\Debug\EntityFramework.xml
+C:\Users\me-shayesteh\source\repos\testUnitOfWork\testUnitOfWork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\me-shayesteh\source\repos\testUnitOfWork\testUnitOfWork\obj\Debug\testUnitOfWork.csprojAssemblyReference.cache
+C:\Users\me-shayesteh\source\repos\testUnitOfWork\testUnitOfWork\obj\Debug\testUnitOfWork.csproj.CopyComplete
+C:\Users\me-shayesteh\source\repos\testUnitOfWork\testUnitOfWork\obj\Debug\testUnitOfWork.exe
+C:\Users\me-shayesteh\source\repos\testUnitOfWork\testUnitOfWork\obj\Debug\testUnitOfWork.pdb
